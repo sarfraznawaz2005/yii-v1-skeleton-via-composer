@@ -1,2 +1,3 @@
-# yii-v1-skeleton-via-composer
-Yii v1 skeleton app installed via composer
+# Yii Framework v1 skeleton installed via Composer
+
+After downloading, run `composer install`
